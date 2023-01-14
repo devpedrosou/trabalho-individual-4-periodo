@@ -32,3 +32,4 @@ CREATE TABLE `Alunos` (
 ALTER TABLE `Turmas` ADD FOREIGN KEY (`Id`) REFERENCES `Cursos` (`turmas_id`);
 
 ALTER TABLE `Professores` ADD FOREIGN KEY (`Id`) REFERENCES `Turmas` (`professores_id`);
+
