@@ -1,4 +1,4 @@
-# Trabalho individual, Módulo 4, Modelando o Sistema.
+# Trabalho individual, Módulo 4, Modelando o Sistema🧑🏾‍💻.
 
 <h2> Fiz este Projeto na sala de aula do curso da RESILIA em conjunto com o SENAC, PROGRAMADORES CARIOCAS, foi um trabalho individual, que após entregue, venho frequentemente aperfeiçoando o mesmo, visando meu desenvolvimento profissional. A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos </h2>
 
