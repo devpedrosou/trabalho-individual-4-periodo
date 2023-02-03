@@ -1,4 +1,4 @@
-# Trabalho-individual-4-periodo
+# Trabalho individual, Módulo 4
 
 A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos
 <img src="https://github.com/themonsteer/trabalho-individual-4-periodo/blob/main/trabalho%20ind.png?raw=true">
