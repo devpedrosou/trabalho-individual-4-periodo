@@ -15,3 +15,4 @@ id, e dos tipos int
 ⇨ Como essas entidades estão relacionadas?
 1:N e N:1
 </h2>
+<h2> Espero que gostem! :) </h2>
